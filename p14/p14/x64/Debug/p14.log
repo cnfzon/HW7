@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p14\p14\main.c(9,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  p14.vcxproj -> C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p14\x64\Debug\p14.exe

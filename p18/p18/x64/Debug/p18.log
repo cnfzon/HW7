@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p18\p18\main.c(9,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p18\p18\main.c(10,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p18\p18\main.c(20,15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  p18.vcxproj -> C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW7\HW7\p18\x64\Debug\p18.exe
